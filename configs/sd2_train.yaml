@@ -70,7 +70,7 @@ data_config:
         resize_back: true
 
 base_model_type: sd2
-base_model_path: stabilityai/stable-diffusion-2-1-base
+base_model_path: sd2-community/stable-diffusion-2-1-base
 model_t: 200
 coeff_t: 200
 lora_rank: 256
